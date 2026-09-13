@@ -118,8 +118,8 @@
     "manual": false
   },
   "pt": {
-    "name": "Português",
-    "englishName": "Portuguese",
+    "name": "Português (Portugal)",
+    "englishName": "Portuguese (Portugal)",
     "script": "Latn",
     "domain": "https://omarchy.pt",
     "formatLocale": "pt-PT",
@@ -420,16 +420,6 @@
     "flag": "IR",
     "direction": "rtl"
   },
-  "am": {
-    "name": "አማርኛ",
-    "englishName": "Amharic",
-    "script": "Ethi",
-    "domain": "https://am.omarchy.org",
-    "formatLocale": "am-ET",
-    "ogLocale": "am_ET",
-    "manual": false,
-    "flag": "ET"
-  },
   "ms": {
     "name": "Bahasa Melayu",
     "englishName": "Malay",
@@ -560,5 +550,16 @@
     "ogLocale": "lv_LV",
     "manual": false,
     "flag": "LV"
+  },
+  "pt-BR": {
+    "name": "Português (Brasil)",
+    "englishName": "Portuguese (Brazil)",
+    "script": "Latn",
+    "domain": "https://pt-br.omarchy.org",
+    "formatLocale": "pt-BR",
+    "ogLocale": "pt_BR",
+    "manual": false,
+    "flag": "BR",
+    "draft": true
   }
 }

@@ -60,11 +60,6 @@
       "file": "chinese.otf",
       "characters": " ,?ADHLVbegintux、。一不个亲代作功加原可坑好定小就心手打搞操改时玩生由的看系统置能自设该调路踩造随，？"
     },
-    "Ethiopic": {
-      "family": "Omarchy Social Ethiopic",
-      "file": "ethiopic.ttf",
-      "characters": " ለሊመሚማምርስቆበብቫተታቶችነናንኝአኤእኦከካክወዊውዘዙዝየያይዱዳጀጆግጓጠጥፍ።፣"
-    },
     "Hebrew": {
       "family": "Omarchy Social Hebrew",
       "file": "hebrew.ttf",
@@ -113,7 +108,6 @@
     "de": "Latin",
     "sw": "Latin",
     "fa": "Arabic",
-    "am": "Ethiopic",
     "ms": "Latin",
     "uk": "Latin",
     "ro": "Latin",

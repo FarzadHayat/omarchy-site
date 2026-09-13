@@ -166,6 +166,7 @@ lists exactly what is still missing or invalid. At the last check: messages
 {progress['blocks']['done']}/{progress['blocks']['total']}, articles
 {progress['news']['done']}/{progress['news']['total']}. Do not redo valid work.
 '''
+    note = f"\n**Variety and style:** {entry['translationNote']}\n" if entry.get('translationNote') else ''
     return f'''# Translate omarchy.org into {english}
 
 Translate all current UI strings, authored page blocks, and complete news
@@ -173,7 +174,7 @@ articles into {english} ({code}, {entry.get('script', '')} script, {direction}).
 Work only in the `out/` directory of this workspace. Do not modify `sources/`
 or `tools/`. Translate directly yourself; do not launch nested translation
 agents or sub-sessions. You have no network and need none.
-{resume}
+{note}{resume}
 ## Inputs
 
 - `sources/messages.json`: {len(snap['messages'])} interface strings, English text as keys, values null.

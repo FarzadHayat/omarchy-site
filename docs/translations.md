@@ -88,58 +88,58 @@ The language menu shows colored country flags and preserves the current pathname
 
 Cloudflare custom domains handle routing and TLS directly. Registered national domains use their assigned Cloudflare nameservers; language subdomains use the omarchy.org zone. Verify HTTPS and the page language before publishing a new primary address.
 
-| Language         | English name          | Primary address                                |
-| ---------------- | --------------------- | ---------------------------------------------- |
-| English          | English               | [omarchy.org](https://omarchy.org)             |
-| Dansk            | Danish                | [omarchy.dk](https://omarchy.dk)               |
-| العربية          | Arabic                | [omarchy.ae](https://omarchy.ae)               |
-| Suomi            | Finnish               | [omarchy.fi](https://omarchy.fi)               |
-| Français         | French                | [omarchy.fr](https://omarchy.fr)               |
-| Ελληνικά         | Greek                 | [omarchy.gr](https://omarchy.gr)               |
-| Magyar           | Hungarian             | [omarchy.hu](https://omarchy.hu)               |
-| हिन्दी           | Hindi                 | [omarchy.in](https://omarchy.in)               |
-| Íslenska         | Icelandic             | [omarchy.is](https://omarchy.is)               |
-| 日本語              | Japanese              | [omarchy.jp](https://omarchy.jp)               |
-| 한국어              | Korean                | [omarchy.kr](https://omarchy.kr)               |
-| Español (México) | Spanish (Mexico)      | [omarchy.mx](https://omarchy.mx)               |
-| Filipino         | Filipino              | [omarchy.ph](https://omarchy.ph)               |
-| Português        | Portuguese            | [omarchy.pt](https://omarchy.pt)               |
-| Svenska          | Swedish               | [omarchy.se](https://omarchy.se)               |
-| Türkçe           | Turkish               | [omarchy.tr](https://omarchy.tr)               |
-| Tiếng Việt       | Vietnamese            | [vi.omarchy.org](https://vi.omarchy.org)       |
-| اردو             | Urdu                  | [ur.omarchy.org](https://ur.omarchy.org)       |
-| বাংলা            | Bengali               | [bn.omarchy.org](https://bn.omarchy.org)       |
-| Català           | Catalan               | [ca.omarchy.org](https://ca.omarchy.org)       |
-| සිංහල            | Sinhala               | [si.omarchy.org](https://si.omarchy.org)       |
-| தமிழ்            | Tamil                 | [ta.omarchy.org](https://ta.omarchy.org)       |
-| ไทย              | Thai                  | [th.omarchy.org](https://th.omarchy.org)       |
-| Oʻzbekcha        | Uzbek                 | [uz.omarchy.org](https://uz.omarchy.org)       |
-| Italiano         | Italian               | [it.omarchy.org](https://it.omarchy.org)       |
-| 简体中文             | Chinese (Simplified)  | [zh.omarchy.org](https://zh.omarchy.org)       |
-| Polski           | Polish                | [pl.omarchy.org](https://pl.omarchy.org)       |
-| Lietuvių         | Lithuanian            | [lt.omarchy.org](https://lt.omarchy.org)       |
-| Gaeilge          | Irish                 | [ga.omarchy.org](https://ga.omarchy.org)       |
-| Nederlands       | Dutch                 | [nl.omarchy.org](https://nl.omarchy.org)       |
-| Norsk            | Norwegian             | [omarchy.no](https://omarchy.no)               |
-| Русский          | Russian               | [ru.omarchy.org](https://ru.omarchy.org)       |
-| Bahasa Indonesia | Indonesian            | [id.omarchy.org](https://id.omarchy.org)       |
-| Deutsch          | German                | [de.omarchy.org](https://de.omarchy.org)       |
-| Kiswahili        | Swahili               | [sw.omarchy.org](https://sw.omarchy.org)       |
-| فارسی            | Persian               | [fa.omarchy.org](https://fa.omarchy.org)       |
-| አማርኛ             | Amharic               | [am.omarchy.org](https://am.omarchy.org)       |
-| Bahasa Melayu    | Malay                 | [ms.omarchy.org](https://ms.omarchy.org)       |
-| Українська       | Ukrainian             | [uk.omarchy.org](https://uk.omarchy.org)       |
-| Română           | Romanian              | [ro.omarchy.org](https://ro.omarchy.org)       |
-| Čeština          | Czech                 | [cs.omarchy.org](https://cs.omarchy.org)       |
-| Српски           | Serbian               | [sr.omarchy.org](https://sr.omarchy.org)       |
-| עברית            | Hebrew                | [he.omarchy.org](https://he.omarchy.org)       |
-| Български        | Bulgarian             | [bg.omarchy.org](https://bg.omarchy.org)       |
-| Slovenčina       | Slovak                | [sk.omarchy.org](https://sk.omarchy.org)       |
-| Hrvatski         | Croatian              | [hr.omarchy.org](https://hr.omarchy.org)       |
-| Slovenščina      | Slovenian             | [sl.omarchy.org](https://sl.omarchy.org)       |
-| 繁體中文             | Chinese (Traditional) | [zh-tw.omarchy.org](https://zh-tw.omarchy.org) |
-| Eesti            | Estonian              | [et.omarchy.org](https://et.omarchy.org)       |
-| Latviešu         | Latvian               | [lv.omarchy.org](https://lv.omarchy.org)       |
+| Language             | English name          | Primary address                                |
+| -------------------- | --------------------- | ---------------------------------------------- |
+| English              | English               | [omarchy.org](https://omarchy.org)             |
+| Dansk                | Danish                | [omarchy.dk](https://omarchy.dk)               |
+| العربية              | Arabic                | [omarchy.ae](https://omarchy.ae)               |
+| Suomi                | Finnish               | [omarchy.fi](https://omarchy.fi)               |
+| Français             | French                | [omarchy.fr](https://omarchy.fr)               |
+| Ελληνικά             | Greek                 | [omarchy.gr](https://omarchy.gr)               |
+| Magyar               | Hungarian             | [omarchy.hu](https://omarchy.hu)               |
+| हिन्दी               | Hindi                 | [omarchy.in](https://omarchy.in)               |
+| Íslenska             | Icelandic             | [omarchy.is](https://omarchy.is)               |
+| 日本語                  | Japanese              | [omarchy.jp](https://omarchy.jp)               |
+| 한국어                  | Korean                | [omarchy.kr](https://omarchy.kr)               |
+| Español (México)     | Spanish (Mexico)      | [omarchy.mx](https://omarchy.mx)               |
+| Filipino             | Filipino              | [omarchy.ph](https://omarchy.ph)               |
+| Português (Portugal) | Portuguese (Portugal) | [omarchy.pt](https://omarchy.pt)               |
+| Svenska              | Swedish               | [omarchy.se](https://omarchy.se)               |
+| Türkçe               | Turkish               | [omarchy.tr](https://omarchy.tr)               |
+| Tiếng Việt           | Vietnamese            | [vi.omarchy.org](https://vi.omarchy.org)       |
+| اردو                 | Urdu                  | [ur.omarchy.org](https://ur.omarchy.org)       |
+| বাংলা                | Bengali               | [bn.omarchy.org](https://bn.omarchy.org)       |
+| Català               | Catalan               | [ca.omarchy.org](https://ca.omarchy.org)       |
+| සිංහල                | Sinhala               | [si.omarchy.org](https://si.omarchy.org)       |
+| தமிழ்                | Tamil                 | [ta.omarchy.org](https://ta.omarchy.org)       |
+| ไทย                  | Thai                  | [th.omarchy.org](https://th.omarchy.org)       |
+| Oʻzbekcha            | Uzbek                 | [uz.omarchy.org](https://uz.omarchy.org)       |
+| Italiano             | Italian               | [it.omarchy.org](https://it.omarchy.org)       |
+| 简体中文                 | Chinese (Simplified)  | [zh.omarchy.org](https://zh.omarchy.org)       |
+| Polski               | Polish                | [pl.omarchy.org](https://pl.omarchy.org)       |
+| Lietuvių             | Lithuanian            | [lt.omarchy.org](https://lt.omarchy.org)       |
+| Gaeilge              | Irish                 | [ga.omarchy.org](https://ga.omarchy.org)       |
+| Nederlands           | Dutch                 | [nl.omarchy.org](https://nl.omarchy.org)       |
+| Norsk                | Norwegian             | [omarchy.no](https://omarchy.no)               |
+| Русский              | Russian               | [ru.omarchy.org](https://ru.omarchy.org)       |
+| Bahasa Indonesia     | Indonesian            | [id.omarchy.org](https://id.omarchy.org)       |
+| Deutsch              | German                | [de.omarchy.org](https://de.omarchy.org)       |
+| Kiswahili            | Swahili               | [sw.omarchy.org](https://sw.omarchy.org)       |
+| فارسی                | Persian               | [fa.omarchy.org](https://fa.omarchy.org)       |
+| Bahasa Melayu        | Malay                 | [ms.omarchy.org](https://ms.omarchy.org)       |
+| Українська           | Ukrainian             | [uk.omarchy.org](https://uk.omarchy.org)       |
+| Română               | Romanian              | [ro.omarchy.org](https://ro.omarchy.org)       |
+| Čeština              | Czech                 | [cs.omarchy.org](https://cs.omarchy.org)       |
+| Српски               | Serbian               | [sr.omarchy.org](https://sr.omarchy.org)       |
+| עברית                | Hebrew                | [he.omarchy.org](https://he.omarchy.org)       |
+| Български            | Bulgarian             | [bg.omarchy.org](https://bg.omarchy.org)       |
+| Slovenčina           | Slovak                | [sk.omarchy.org](https://sk.omarchy.org)       |
+| Hrvatski             | Croatian              | [hr.omarchy.org](https://hr.omarchy.org)       |
+| Slovenščina          | Slovenian             | [sl.omarchy.org](https://sl.omarchy.org)       |
+| 繁體中文                 | Chinese (Traditional) | [zh-tw.omarchy.org](https://zh-tw.omarchy.org) |
+| Eesti                | Estonian              | [et.omarchy.org](https://et.omarchy.org)       |
+| Latviešu             | Latvian               | [lv.omarchy.org](https://lv.omarchy.org)       |
+| Português (Brasil)   | Portuguese (Brazil)   | [pt-br.omarchy.org](https://pt-br.omarchy.org) |
 
 ## Pointing a new domain to a language site
 

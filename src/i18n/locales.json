@@ -124,7 +124,8 @@
     "domain": "https://omarchy.pt",
     "formatLocale": "pt-PT",
     "ogLocale": "pt_PT",
-    "manual": false
+    "manual": false,
+    "translationNote": "European Portuguese as written in Portugal: \"estar a fazer\" progressives (never \"estar fazendo\"), \"equipa\", \"sistema operativo\", \"utilizador\", \"ecrã\", \"ficheiro\", second-person \"tu\" forms consistent with the existing UI strings. Brazilian Portuguese vocabulary or grammar is a defect; a separate pt-BR edition exists."
   },
   "sv": {
     "name": "Svenska",
@@ -559,6 +560,7 @@
     "formatLocale": "pt-BR",
     "ogLocale": "pt_BR",
     "manual": false,
-    "flag": "BR"
+    "flag": "BR",
+    "translationNote": "Brazilian Portuguese as written in Brazil: \"você\" forms, \"estar fazendo\" progressives, \"time\", \"sistema operacional\", \"usuário\", \"tela\", \"arquivo\"."
   }
 }

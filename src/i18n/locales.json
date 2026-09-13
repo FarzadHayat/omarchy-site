@@ -549,8 +549,7 @@
     "formatLocale": "et-EE",
     "ogLocale": "et_EE",
     "manual": false,
-    "flag": "EE",
-    "draft": true
+    "flag": "EE"
   },
   "lv": {
     "name": "Latviešu",

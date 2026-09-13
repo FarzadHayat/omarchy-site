@@ -60,6 +60,7 @@ SCRIPT_FAMILIES = {
     'Jpan': ('Japanese', 'NotoSansCJK', 0),
     'Kore': ('Korean', 'NotoSansCJK', 1),
     'Hans': ('Chinese', 'NotoSansCJK', 2),
+    'Hant': ('ChineseTraditional', 'NotoSansCJK', 3),
 }
 # Language code -> family, when the script's default is not the right voice.
 CODE_FAMILIES = {

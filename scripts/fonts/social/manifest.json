@@ -69,6 +69,11 @@
       "family": "Omarchy Social Hebrew",
       "file": "hebrew.ttf",
       "characters": " אגדהוזיכלםמןנסעפצקרשת"
+    },
+    "ChineseTraditional": {
+      "family": "Omarchy Social ChineseTraditional",
+      "file": "chinesetraditional.otf",
+      "characters": " DHLbeinuvx、。一代作修動可塑定或打搞改整時有業次每理用疑症的系統美調趣造雜難驅麗"
     }
   },
   "locales": {
@@ -118,6 +123,7 @@
     "bg": "Latin",
     "sk": "Latin",
     "hr": "Latin",
-    "sl": "Latin"
+    "sl": "Latin",
+    "zh-TW": "ChineseTraditional"
   }
 }

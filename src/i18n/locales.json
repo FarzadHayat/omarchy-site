@@ -539,8 +539,7 @@
     "formatLocale": "zh-TW",
     "ogLocale": "zh_TW",
     "manual": false,
-    "flag": "TW",
-    "draft": true
+    "flag": "TW"
   },
   "et": {
     "name": "Eesti",

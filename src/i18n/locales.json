@@ -560,7 +560,6 @@
     "formatLocale": "lv-LV",
     "ogLocale": "lv_LV",
     "manual": false,
-    "flag": "LV",
-    "draft": true
+    "flag": "LV"
   }
 }

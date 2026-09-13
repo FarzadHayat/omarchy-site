@@ -682,23 +682,6 @@
       "coverHeight": 800
     },
     {
-      "id": "evt-PxPJVCnzOvx3MSu",
-      "title": "Linux & Omarchy Meetup - Northampton, UK",
-      "url": "https://luma.com/da9jp6p4",
-      "start": "2026-09-24T15:00:00.000Z",
-      "end": "2026-09-24T17:30:00.000Z",
-      "timezone": "Europe/London",
-      "address": "Vulcan Works, 34-38 Guildhall Rd, Northampton NN1 1EW, UK",
-      "city": "Northampton",
-      "country": "GB",
-      "online": false,
-      "geo": { "lat": 52.235849599999995, "lon": -0.8944494 },
-      "hosts": [],
-      "cover": "/images/meetups/evt-PxPJVCnzOvx3MSu-full.webp",
-      "coverWidth": 800,
-      "coverHeight": 800
-    },
-    {
       "id": "evt-j0kkKPmpZ4BsV8P",
       "title": "Omarchy Germany / Deutschland Meetup",
       "url": "https://luma.com/nh08a3uq",
@@ -833,6 +816,23 @@
       "cover": "/images/meetups/evt-CDLEcZNMJtilaTP-full.webp",
       "coverWidth": 800,
       "coverHeight": 600
+    },
+    {
+      "id": "evt-FSyUPQyjUYvFKfn",
+      "title": "Omarchy Prague",
+      "url": "https://luma.com/v9bjvpbu",
+      "start": "2026-09-29T16:00:00.000Z",
+      "end": "2026-09-29T19:00:00.000Z",
+      "timezone": "Europe/Prague",
+      "address": "Scout Institute, Staroměstské nám. 4/1, Staré Město, 110 00 Praha-Praha 1, Czechia",
+      "city": "Hlavní město Praha",
+      "country": "CZ",
+      "online": false,
+      "geo": { "lat": 50.0866666, "lon": 14.419858699999999 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-FSyUPQyjUYvFKfn-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
     },
     {
       "id": "evt-XY4PE0sSpMrxY7t",
@@ -1120,6 +1120,23 @@
       "geo": { "lat": 43.344232999999996, "lon": 3.215795 },
       "hosts": [],
       "cover": "/images/meetups/evt-4sc11tVaBGUxFeC-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
+    },
+    {
+      "id": "evt-PxPJVCnzOvx3MSu",
+      "title": "Linux & Omarchy Meetup - Northampton, UK",
+      "url": "https://luma.com/da9jp6p4",
+      "start": "2026-10-22T15:00:00.000Z",
+      "end": "2026-10-22T17:30:00.000Z",
+      "timezone": "Europe/London",
+      "address": "Vulcan Works, 34-38 Guildhall Rd, Northampton NN1 1EW, UK",
+      "city": "Northampton",
+      "country": "GB",
+      "online": false,
+      "geo": { "lat": 52.235849599999995, "lon": -0.8944494 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-PxPJVCnzOvx3MSu-full.webp",
       "coverWidth": 800,
       "coverHeight": 800
     },

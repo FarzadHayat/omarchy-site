@@ -559,7 +559,6 @@
     "formatLocale": "pt-BR",
     "ogLocale": "pt_BR",
     "manual": false,
-    "flag": "BR",
-    "draft": true
+    "flag": "BR"
   }
 }

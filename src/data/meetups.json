@@ -1,7 +1,7 @@
 {
   "source": "luma-api",
   "calendar": "https://luma.com/omarchy",
-  "refreshed": "2026-09-13",
+  "refreshed": "2026-09-14",
   "events": [
     {
       "id": "evt-YDyCEwwpiMzSFDB",
@@ -858,11 +858,11 @@
       "start": "2026-09-30T23:00:00.000Z",
       "end": "2026-10-01T00:00:00.000Z",
       "timezone": "America/Chicago",
-      "address": "Dallas/Fort Worth, TX",
-      "city": null,
-      "country": null,
+      "address": "Dallas, TX, USA",
+      "city": "Dallas",
+      "country": "US",
       "online": false,
-      "geo": null,
+      "geo": { "lat": 32.7766642, "lon": -96.79698789999999 },
       "hosts": [],
       "cover": "/images/meetups/evt-2h0vxlgK0HC9Weh-full.webp",
       "coverWidth": 800,

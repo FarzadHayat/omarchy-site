@@ -466,7 +466,7 @@ export function SiteHeader({ path = '/' }: { path?: string }) {
       size="icon"
       aria-label={t('Change website theme')}
       data-nav-glyph
-      className="relative h-8 w-8 text-text-secondary transition-[background-color,transform] hover:text-text before:absolute before:-inset-1 lg:h-[calc(var(--pxr)*3)] lg:w-[calc(var(--pxr)*3)]"
+      className="relative h-8 w-8 cursor-pointer text-text-secondary transition-[background-color,transform] hover:text-text before:absolute before:-inset-1 lg:h-[calc(var(--pxr)*3)] lg:w-[calc(var(--pxr)*3)]"
       onClick={() => window.dispatchEvent(new CustomEvent(OPEN_PICKER_EVENT))}
     >
       <PaletteIcon className="size-5" />
@@ -542,7 +542,7 @@ export function SiteHeader({ path = '/' }: { path?: string }) {
                 <NavTooltip label={t('Change website theme')} shortcut="T">
                   {theme}
                 </NavTooltip>
-                <LanguageSwitcher path={pathname} />
+                <LanguageSwitcher path={pathname} withTooltip />
                 <NavTooltip label={t('Subscribe via RSS')}>
                   <Button
                     variant="ghost"

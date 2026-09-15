@@ -3,11 +3,7 @@ import { useState } from 'react'
 import { GlobeIcon } from '@/components/icons/GlobeIcon'
 import { Button } from '@/components/ui/button'
 import { ScrollArea } from '@/components/ui/scroll-area'
-import {
-  Tooltip,
-  TooltipContent,
-  TooltipTrigger,
-} from '@/components/ui/tooltip'
+import { NavTooltip } from '@/components/NavTooltip'
 import {
   flag,
   hasTranslation,
@@ -51,12 +47,7 @@ export function LanguageSwitcher({
       }}
     >
       {withTooltip ? (
-        <Tooltip>
-          <TooltipTrigger render={trigger} />
-          <TooltipContent side="bottom" sideOffset={10}>
-            {t('Language')}
-          </TooltipContent>
-        </Tooltip>
+        <NavTooltip label={t('Language')}>{trigger}</NavTooltip>
       ) : (
         trigger
       )}

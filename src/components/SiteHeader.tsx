@@ -1,7 +1,7 @@
 import { t } from '@/i18n/site'
 import { Link, useLocation } from '@tanstack/react-router'
 import { useEffect, useLayoutEffect, useRef, useState } from 'react'
-import type { ReactElement, RefObject } from 'react'
+import type { RefObject } from 'react'
 import {
   DownloadIcon,
   GithubIcon,
@@ -14,42 +14,14 @@ import {
 import { OmarchyMarkDrawn, OmarchyWordmark } from '@/components/Brand'
 import { GlobeIcon } from '@/components/icons/GlobeIcon'
 import { LanguageSwitcher } from '@/components/LanguageSwitcher'
+import { NavTooltip } from '@/components/NavTooltip'
 import { MusicMenuControl } from '@/components/MusicControl'
 import { Button } from '@/components/ui/button'
-import {
-  Tooltip,
-  TooltipContent,
-  TooltipProvider,
-  TooltipTrigger,
-} from '@/components/ui/tooltip'
+import { TooltipProvider } from '@/components/ui/tooltip'
 import { useHashLink } from '@/lib/hash-scroll'
 import { OPEN_PICKER_EVENT, THEME_EVENT, groundOf } from '@/lib/theme'
 import { OPEN_SEARCH_EVENT } from '@/lib/search'
 import { cn } from '@/lib/utils'
-
-function NavTooltip({
-  children,
-  label,
-  shortcut,
-}: {
-  children: ReactElement
-  label: string
-  shortcut?: string
-}) {
-  return (
-    <Tooltip>
-      <TooltipTrigger render={children} />
-      <TooltipContent side="bottom" sideOffset={10}>
-        {label}
-        {shortcut && (
-          <kbd className="ml-1 rounded border border-current/25 px-1 font-mono text-[11px] opacity-75">
-            {shortcut}
-          </kbd>
-        )}
-      </TooltipContent>
-    </Tooltip>
-  )
-}
 
 const navLinks = [
   { to: '/news/', label: t('News') },
